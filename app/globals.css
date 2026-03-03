@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* On garde uniquement le comportement de défilement fluide */
+html {
+  scroll-behavior: smooth;
+}
